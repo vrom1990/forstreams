@@ -25,7 +25,7 @@ nomer = -1
 
 i = 0
 n = len(spisok)
-while i < :
+while i < n:
     if spisok[i] == "молоко":
         nomer = i + 1
         break
